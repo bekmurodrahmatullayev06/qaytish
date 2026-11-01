@@ -44,3 +44,12 @@ const user3 = new User(3, "bobir", 25, "bobir@example.com");
 console.log(user1);
 console.log(user2);
 console.log(user3);
+
+// const users = {
+//     id: 1,
+//     name: "muqsin",
+//     age: 20,
+//     email: "muqs1@example.com"
+// }
+
+// console.log(users);
